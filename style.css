@@ -1,0 +1,172 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    
+}
+.container
+{
+    width: 16%;
+    
+    background-color:black;
+    color: white;
+    height: 593px;
+    margin: auto;
+    border-radius: 40px;
+}
+.upper-sec
+{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+/*
+.number-input
+{
+    width: 34px;
+    height: 166px;
+    background-color: black;
+    color: white;
+    position: relative;
+     left: 210px;
+     bottom: 20px;
+     
+}
+*/
+
+.display-sec 
+{
+    padding: 117px;
+    padding-left: 200px;
+    padding-bottom: 0.0005px;
+}
+
+.btn
+{
+    padding: 16px;
+    border-radius: 25px;
+}
+#btn-1
+{
+    padding: 16px;
+    border-radius: 25px;
+    background-color: darkorange;
+    color: white;
+}
+
+.first-row
+{
+    display: flex;
+    gap: 5px;
+    padding: 17px;
+}
+.second-row
+{
+    padding-left: 17px;
+}
+#button1
+{
+    background-color:darkslategray;
+        color: white;
+    padding: 20px;
+}
+#button2
+{
+    background-color:darkslategray;
+        color: white;
+
+    padding:20px;
+}
+#button3
+{
+    background-color:darkslategray;
+    color: white;
+
+    padding: 20px;
+}
+#button4
+{
+    padding: 20px;
+    background-color: darkorange;
+    color: white;
+}
+.Third-row .btn
+{
+    padding: 20px;
+    border-radius: 27px;
+    background-color:darkslategray;
+        color: white;
+
+}
+.Third-row
+{
+    display: flex;
+    gap: 5px;
+    padding: 17px;
+}
+#btn2
+{
+    padding: 20px;
+    border-radius: 27px;
+    background-color: darkorange;
+    color: white;
+}
+.Fourth-row
+{
+    display: flex;
+    gap: 5px;
+    padding: 15px;
+    padding-top: 0px;
+
+}
+
+.Fourth-row .btn
+{
+    padding: 20px;
+    border-radius: 27px;
+    background-color:darkslategray;
+        color: white;
+
+}
+#btn3
+{
+    padding: 20px;
+    border-radius: 27px;
+    background-color: darkorange;
+    color: white;
+    
+}
+
+.Fifth-row
+{
+    display: flex;
+    gap: 15px;
+    padding: 15px;
+    padding-top: 0px;
+
+}
+.Fifth-row .btn
+{
+    padding: 20px;
+    border-radius: 27px;
+    background-color:darkslategray;
+        color: white;
+
+}
+#btn5
+{
+    padding: 21px;
+    border-radius: 32px;
+    padding-right: 77px;
+    padding-left: 6px;
+    background-color: dimgray;
+    color: white;
+}
+#btn4
+{
+    padding: 20px;
+    border-radius: 27px;
+    background-color: darkorange;
+    color: white;
+    
+}
